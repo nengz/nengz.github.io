@@ -1,0 +1,13 @@
+- title: "Influential Global and Local Contexts Guided Trace Representation for Fault Localization"
+  authors:  Zhuo Zhang, Yan Lei, Ting Su, <b>Meng Yan</b>, Xiaoguang Mao, Yue Yu
+  venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
+  year: 2022
+  pdf: papers/TOSEM221.pdf
+  status: Accepted
+
+- title: "An Empirical Study of the Impact of Log Parsers on the Performance of Log-based Anomaly Detection"
+  authors:  Ying Fu, <b>Meng Yan</b>, Zhou Xu, Xin Xia, Xiaohong Zhang, Dan Yang
+  venue:  Empirical Software Engineering (EMSE, CCF-B)
+  year: 2022
+  pdf: papers/EMSE221.pdf
+  status: Accepted

@@ -1,0 +1,13 @@
+- title: "DeepScaling:Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems"
+  authors: Ziliang Wang, Shiyi Zhu, Jianguo Li, Wei Jiang, K.K.Ramakrishnan, Yangfei Zheng, <b>Meng Yan</b>, Xiaohong Zhang, Alex X. Liu.
+  venue: The 13th ACM Symposium on Cloud Computing (SoCC 2022, CCF-B), Full paper
+  year: 2022
+  status: Accepted
+  pdf: papers/SOCC221.pdf
+
+- title: "Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach"
+  authors: Zhuo Zhang, Yan Lei, <b>Meng Yan</b>, Yue Yu, Jiachi Chen, Shangwen Wang, Xiaoguang Mao
+  venue: The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE 2022, CCF-A), Full paper
+  year: 2022
+  status: Accepted
+  pdf: papers/ASE221.pdf
