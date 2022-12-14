@@ -1,0 +1,150 @@
+---
+layout: default
+---
+
+<div class="home"><div class="col-sm-2" style="width: 200px; margin-left: auto; margin-right: auto;">
+<img src="assets/myphoto.jpg" alt="meng_img" width="200" class="profile" />
+</div>
+<section class="section summary-section">
+    <h2 class="section-title">About Me</h2>
+    <div class="summary">
+        <p> I am now a Research Professor at the School of Big Data & Software Engineering, Chongqing University, China. Prior to joining Chongqing University, I was a Postdoc at Zhejiang Univeristy advised by <a href="http://person.zju.edu.cn/en/0087125">Prof.Shanping Li</a> and <a href="https://xin-xia.github.io/">Dr. Xin Xia</a>. I got my Ph.D degree in June 2017 under the supervision of Prof. Xiaohong Zhang from Chongqing University, China.</p>
+    
+        <p>My currently research focuses on how to improve developers' productivity, how to improve software quality and how to reduce the effort during software development by analyzing rich software repository data. In terms of the techniques, I am interested in adopting different data analytics techniques, including data mining, information retrieval, machine learning and program analysis.</p>
+
+		<p>My Chinese homepage can be found at <a href="http://www.cse.cqu.edu.cn/info/2095/5040.htm">here</a>.</p>
+    </div><!--//summary-->
+</section><!--//section-->
+
+<section class="section experiences-section">
+        <h2 class="section-title">Experiences</h2>
+                    <div class="item">
+                            <div class="meta">
+                                <div class="upper-row">
+                                    <h3 class="job-title">Research Professor (also Ph.d Supervisor)</h3>
+                                    <div class="time">2019.10 - Present</div>
+                                </div><!--//upper-row-->
+                                <div class="company">School of Big Data & Software Engineering, Chongqing University, Chongqing, China </div>
+                            </div><!--//meta-->
+                    </div><!--//item-->
+					<div class="item">
+                            <div class="meta">
+                                <div class="upper-row">
+                                    <h3 class="job-title">Vsiting Scholar</h3>
+                                    <div class="time">2018.11 - 2019.6</div>
+                                </div><!--//upper-row-->
+                                <div class="company">Faculty of Information Technology, Monash University, Melbourne, Australia </div>
+                            </div><!--//meta-->
+                    </div><!--//item-->
+                    <div class="item">
+                            <div class="meta">
+                                <div class="upper-row">
+                                    <h3 class="job-title">Vsiting Scholar</h3>
+                                    <div class="time">2018.5 - 2018.10</div>
+                                </div><!--//upper-row-->
+                                <div class="company">Alibaba Group, Hangzhou, China</div>
+                            </div><!--//meta-->
+                    </div><!--//item-->
+    
+                    <div class="item">
+                        <div class="meta">
+                            <div class="upper-row">
+                                <h3 class="job-title">PostDoc</h3>
+                                <div class="time">2017.7 - 2019.9</div>
+                            </div><!--//upper-row-->
+                            <div class="company">Zhejiang Univeristy, Hangzhou, China</div>
+                        </div><!--//meta-->
+                    </div><!--//item-->
+              </section><!--//section-->
+
+<section class="section experiences-section">
+    <h2 class="section-title">Education</h2>
+                
+          <div class="item">
+                  <div class="meta">
+                      <div class="upper-row">
+                          <h3 class="job-title">PhD in Software Engineering</h3>
+                          <div class="time">2013.9 - 2017.6</div>
+                      </div>
+                      <div class="company">Chongqing University, Chongqing, China</div>
+                  </div><!--//meta-->
+          </div><!--//item-->
+          <div class="item">
+                  <div class="meta">
+                      <div class="upper-row">
+                          <h3 class="job-title">MSc in Software Engineering</h3>
+                          <div class="time">2011.9 - 2013.6</div>
+                      </div>
+                      <div class="company">Chongqing University, Chongqing, China</div>
+                  </div><!--//meta-->
+          </div><!--//item-->
+          <div class="item">
+              <div class="meta">
+                  <div class="upper-row">
+                      <h3 class="job-title">Bsc in Software Engineering</h3>
+                      <div class="time">2007.9 - 2011.7</div>
+                  </div>
+                  <div class="company">Chongqing University, Chongqing, China</div>
+              </div><!--//meta-->
+      </div><!--//item-->
+
+  </section><!--//section-->
+<section class="section publication-section">
+	<h2 class="section-title">Publication</h2>
+    <div class="intro">
+        <p class="subsection-title">Journal</p>
+    </div>  <!--//intro-->
+    {% assign len = site.data.journals | size | plus : 1  %} 
+    {% for journal in site.data.journals %}
+    {% assign idx = forloop.index %}
+    {% assign idx = len | minus: forloop.index %}
+    <div class="item">
+        <span class="project-tagline">[{{idx}}] {{ journal.authors }}. "{{ journal.title }}". <em>{{ journal.venue }}</em>, {{ journal.year }}</span>
+        {% if journal.remark%}
+            (<span class="project-tagline"><b>{{ journal.remark }}</b></span>)
+        {% endif %}
+        {% if journal.pdf%}
+            <span class="pull-right"> <a href="{{ site.url }}/{{ journal.pdf }}"><b>[PDF]</b></a></span>
+        {% endif %}
+
+    </div>
+    {% endfor %}
+	</br>
+    <div class="intro">
+            <p class="subsection-title">Conference</p>
+    </div>
+    {% assign len = site.data.conferences | size | plus : 1  %} 
+    {% for paper in site.data.conferences %}
+    {% assign idx = forloop.index %}
+    {% assign idx = len | minus: forloop.index %}
+    <div class="item">
+            <span class="project-tagline">[{{idx}}] {{ paper.authors }}. "{{ paper.title }}". <em>{{ paper.venue }}</em>, {{ paper.year }}</span>
+            {% if paper.remark%}
+                (<span class="project-tagline"><b>{{ paper.remark }}</b></span>)
+            {% endif %}
+            {% if paper.pdf%}
+            <span class="pull-right"> <a href="{{ site.url }}/{{ paper.pdf }}"><b>[PDF]</b></a></span>
+            {% endif %}
+    </div>
+    {% endfor %}
+
+	</br>
+    <div class="intro">
+        <p class="subsection-title">Papers in Chinese</p>
+    </div><!--//intro-->
+    {% assign len = site.data.chineses | size | plus : 1  %} 
+    {% for chinese in site.data.chineses %}
+    {% assign idx = forloop.index %}
+    {% assign idx = len | minus: forloop.index %}
+    <div class="item">
+        <span class="project-tagline">[{{idx}}] {{ chinese.authors }}. "{{ chinese.title }}". <em>{{ chinese.venue }}</em>, {{ chinese.year }}</span>
+        {% if chinese.remark%}
+            (<span class="project-tagline"><b>{{ chinese.remark }}</b></span>)
+        {% endif %}
+        {% if chinese.pdf%}
+            <span class="pull-right"> <a href="{{ site.url }}/{{ chinese.pdf }}"><b>[PDF]</b></a></span>
+        {% endif %}
+    </div>
+    {% endfor %}
+   
+</section><!--//section-->
