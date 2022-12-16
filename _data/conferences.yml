@@ -13,7 +13,7 @@
   pdf: papers/ICSE2022.pdf
   
  - title: "An Approach of Service Discovery based on Service Goal Clustering"
-  authors: <b>Neng Zhang</b>, Jian Wang, Keqing He, Zheng Li
+  authors: <b>Neng Zhang</b>, Jian Wang*, Keqing He, Zheng Li
   venue: The 13th IEEE International Conference on Services Computing (SCC 2016, CCF-C), Research Track
   year: 2016
   status: Accepted
