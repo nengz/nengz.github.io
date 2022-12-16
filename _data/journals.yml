@@ -1,13 +1,21 @@
-- title: "Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum"
-  authors:  Zibin Zheng, <b>Neng Zhang*</b>, Jianzhong Su, Zhijie Zhong, Mingxi Ye, Jiachi Chen
-  venue:  45th ACM/IEEE International Conference on Software Engineering (ICSE, CCF-A)
+- title: "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey"
+  authors:  <b>Neng Zhang</b>, Ying Zou, Xin Xia*, Qiao Huang, David Lo, Shanping Li
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
   year: 2022
-  pdf: papers/TOSEM221.pdf
+  pdf: papers/TSE2022.pdf
   status: Accepted
 
-- title: "An Empirical Study of the Impact of Log Parsers on the Performance of Log-based Anomaly Detection"
-  authors:  Ying Fu, <b>Meng Yan</b>, Zhou Xu, Xin Xia, Xiaohong Zhang, Dan Yang
-  venue:  Empirical Software Engineering (EMSE, CCF-B)
-  year: 2022
-  pdf: papers/EMSE221.pdf
-  status: Accepted
+- title: "Co-attentive Representation Learning for Web Services Classification"
+  authors:  Bin Tang, Meng Yan, <b>Neng Zhang</b>, Ling Xu, Xiaohong Zhang, Haijun Ren
+  venue:  Expert Systems with Applications (ESWA, CCF-C, 中科院一区)
+  year: 2021
+  pdf: papers/ESWA2021.pdf
+  status: Published
+
+- title: "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval"
+  authors:  <b>Neng Zhang</b>, Qiao Huang, Xin Xia*, Ying Zou, David Lo, Zhenchang Xing
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  year: 2020
+  pdf: papers/TSE2020.pdf
+  status: Published
+ 
