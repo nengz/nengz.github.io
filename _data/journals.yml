@@ -1,6 +1,6 @@
-- title: "Influential Global and Local Contexts Guided Trace Representation for Fault Localization"
-  authors:  Zhuo Zhang, Yan Lei, Ting Su, <b>Meng Yan</b>, Xiaoguang Mao, Yue Yu
-  venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
+- title: "Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum"
+  authors:  Zibin Zheng, <b>Neng Zhang*</b>, Jianzhong Su, Zhijie Zhong, Mingxi Ye, Jiachi Chen
+  venue:  45th ACM/IEEE International Conference on Software Engineering (ICSE, CCF-A)
   year: 2022
   pdf: papers/TOSEM221.pdf
   status: Accepted
