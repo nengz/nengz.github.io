@@ -1,33 +1,20 @@
-- title: "代码自然性及其应用研究进展"
-  authors: 陈浙哲,<b>鄢萌*</b>,夏鑫,刘忠鑫,徐洲,雷晏. 
-  venue: 软件学报, 已录用
-  year: 2021
-  status: 已录用
-  remark: 通讯作者
-  pdf: papers/rjxb211.pdf
-
-- title: "基于双层协同的联盟区块链隐私数据保护方法"
-  authors: 蔡亮, 端豪, <b>鄢萌*</b>, 夏鑫 
-  venue: 软件学报, 已录用
+- title: "智能代码补全研究综述"
+  authors: 杨博, <b>张能</b>, 李善平, 夏鑫* 
+  venue: 软件学报
   year: 2020
-  status: 已录用
-  remark: 通讯作者
-  pdf: papers/rjxb201.pdf
+  status: 已发表
+  pdf: papers/JOS2020.pdf
 
-- title: "即时软件缺陷预测研究进展"
-  authors: 蔡亮, 范元瑞, <b>鄢萌*</b>, 夏鑫 
-  venue: 软件学报, 已录用
-  year: 2018
-  status: 已录用
-  remark: 通讯作者, Invited to NASAC 2018 as part of the 智能化软件新技术 Track
-  pdf: papers/rjxb18Yuanrui.pdf
+- title: "一种面向主题的领域服务聚类方法"
+  authors: 李征, 王健*, <b>张能</b>, 李昭, 何成万, 何克清
+  venue: 计算机研究与发展
+  year: 2014
+  status: 已发表
+  pdf: papers/JCRD2014.pdf
 
-- title: "代码克隆检测研究进展"
-  authors: 陈秋远, 李善平, <b>鄢萌*</b>, 夏鑫 
-  venue: 软件学报, 已录用
-  year: 2018
-  status: 已录用
-  remark: 通讯作者
-  pdf: papers/rjxb18Qiuyuan.pdf
-
-
+- title: "一种领域服务目标知识库的构建方法"
+  authors: <b>张能</b>, 王健*, 李征, 何克清 
+  venue: 软件学报
+  year: 2014
+  status: 已发表
+  pdf: papers/JCCS2014.pdf
