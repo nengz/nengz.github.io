@@ -72,7 +72,7 @@ layout: default
 <section class="section publication-section">
 	<h2 class="section-title">Publication</h2>
     <div class="intro">
-        <p class="subsection-title">Journal</p>
+        <p class="subsection-title">Journal Papers</p>
     </div>  <!--//intro-->
     {% assign len = site.data.journals | size | plus : 1  %} 
     {% for journal in site.data.journals %}
@@ -90,7 +90,7 @@ layout: default
     {% endfor %}
 	</br>
     <div class="intro">
-            <p class="subsection-title">Conference</p>
+            <p class="subsection-title">Conference Papers</p>
     </div>
     {% assign len = site.data.conferences | size | plus : 1  %} 
     {% for paper in site.data.conferences %}
