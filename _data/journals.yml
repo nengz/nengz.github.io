@@ -54,6 +54,28 @@
   pdf: papers/ESWA2018.pdf
   status: Published
 
+- title: "WSGM‐SD: An Approach to RESTful Service Discovery Based on Weighted Service Goal Model"
+  authors:  <b>Neng Zhang</b>, Keqing He, Jian Wang, Zheng Li
+  venue:  Chinese Journal of Electronics (CJE, SCI)
+  year: 2016
+  pdf: papers/CJE2016.pdf
+  status: Published
+  
+- title: "An On-demand Services Discovery Approach Based on Topic Clustering"
+  authors:  Zheng Li, Keqing He, Jian Wang, <b>Neng Zhang</b>
+  venue:  Journal of Internet Technology (JIT, SCI)
+  year: 2014
+  pdf: papers/JIT2014.pdf
+  status: Published
+
+- title: "Leveraging Incrementally Enriched Domain Knowledge to Enhance Service Categorization"
+  authors:  Jia Zhang, Jian Wang, Patrick Hung, Zheng Li, <b>Neng Zhang</b>, Keqing He
+  venue:  International Journal of Web Services Research (IJWSR, SCI)
+  year: 2012
+  pdf: papers/IJWSR2012.pdf
+  status: Published
+
+ 
 
 
  
