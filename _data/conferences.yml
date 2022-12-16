@@ -1,4 +1,4 @@
- - title: "Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum"
+- title: "Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum"
   authors:  Zibin Zheng, <b>Neng Zhang*</b>, Jianzhong Su, Zhijie Zhong, Mingxi Ye, Jiachi Chen
   venue:  The 45th ACM/IEEE International Conference on Software Engineering (ICSE 2023, CCF-A), Techincal Track
   year: 2023
@@ -12,18 +12,16 @@
   status: Accepted
   pdf: papers/ICSE2022.pdf
   
- - title: "An Approach of Service Discovery based on Service Goal Clustering"
+- title: "An Approach of Service Discovery based on Service Goal Clustering"
   authors: <b>Neng Zhang</b>, Jian Wang*, Keqing He, Zheng Li
   venue: The 13th IEEE International Conference on Services Computing (SCC 2016, CCF-C), Research Track
   year: 2016
   status: Accepted
   pdf: papers/SCC2016.pdf
   
- - title: "Towards Services Discovery based on Service Goal Extraction and Recommendation"
+- title: "Towards Services Discovery based on Service Goal Extraction and Recommendation"
   authors: Jian Wang, <b>Neng Zhang</b>, Ceng Zeng, Zheng Li, Keqing He
   venue: The 10th IEEE International Conference on Services Computing (SCC 2013, CCF-C), Research Track
   year: 2013
   status: Accepted
   pdf: papers/SCC2013.pdf
-
-
