@@ -5,17 +5,55 @@
   pdf: papers/TSE2022.pdf
   status: Accepted
 
+- title: "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval"
+  authors:  <b>Neng Zhang</b>, Qiao Huang, Xin Xia*, Ying Zou, David Lo, Zhenchang Xing
+  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  year: 2022
+  pdf: papers/TSE2020.pdf
+  status: Published
+
 - title: "Co-attentive Representation Learning for Web Services Classification"
-  authors:  Bin Tang, Meng Yan, <b>Neng Zhang</b>, Ling Xu, Xiaohong Zhang, Haijun Ren
+  authors:  Bin Tang, Meng Yan*, <b>Neng Zhang</b>, Ling Xu, Xiaohong Zhang, Haijun Ren
   venue:  Expert Systems with Applications (ESWA, CCF-C, 中科院一区)
   year: 2021
   pdf: papers/ESWA2021.pdf
   status: Published
-
-- title: "Chatbot4QR: Interactive Query Refinement for Technical Question Retrieval"
-  authors:  <b>Neng Zhang</b>, Qiao Huang, Xin Xia*, Ying Zou, David Lo, Zhenchang Xing
-  venue:  IEEE Transactions on Software Engineering (TSE, CCF-A)
+  
+- title: "Mining Domain Knowledge on Service Goals from Textual Service Descriptions"
+  authors:  <b>Neng Zhang</b>, Jian Wang*, Yutao Ma
+  venue:  IEEE Transactions on Services Computing (TSC, CCF-A)
   year: 2020
-  pdf: papers/TSE2020.pdf
+  pdf: papers/TSC2020.pdf
   status: Published
+  
+- title: "Mining and Clustering Service Goals for RESTful Service Discovery"
+  authors:  <b>Neng Zhang</b>, Jian Wang*, Keqing He, Zheng Li, Yiwang Huang
+  venue:  Knowledge and Information Systems (KAIS, CCF-B)
+  year: 2019
+  pdf: papers/KAIS2019.pdf
+  status: Published
+  
+- title: "An Integrated Service Recommendation Approach for Service-based System Development"
+  authors:  Fang Xie, Jian Wang*, Ruibin Xiong, <b>Neng Zhang</b>, Yutao Ma, Keqing He
+  venue:  Expert Systems with Applications (ESWA, CCF-C, 中科院一区)
+  year: 2019
+  pdf: papers/ESWA2019.pdf
+  status: Published
+  
+- title: "Web Service Discovery Based on Goal-oriented Query Expansion"
+  authors:  <b>Neng Zhang</b>, Jian Wang, Yutao Ma, Keqing He, Zheng Li, Xiaoqing (Frank) Liu
+  venue:  Journal of Systems and Software (JSS, CCF-B)
+  year: 2018
+  pdf: papers/JSS2018.pdf
+  status: Published
+  
+- title: "Deep Hybrid Collaborative Filtering for Web Service Recommendation"
+  authors:  Ruibin Xiong, Jian Wang, <b>Neng Zhang</b>, Yutao Ma
+  venue:  Expert Systems with Applications (ESWA, CCF-C, 中科院一区)
+  year: 2018
+  pdf: papers/ESWA2018.pdf
+  status: Published
+
+
+
  
