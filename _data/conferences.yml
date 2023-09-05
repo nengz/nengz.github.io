@@ -1,5 +1,5 @@
 - title: "iASTMapper: An Iterative Similarity-Based Abstract Syntax Tree Mapping Algorithm"
-  authors:  <b>Neng Zhang*</b>, Qinde Chen, Zibin Zheng, Ying Zou
+  authors:  <b>Neng Zhang</b>, Qinde Chen*, Zibin Zheng, Ying Zou
   venue:  The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023, CCF-A), Research Track
   year: 2023
   pdf: papers/ASE2023.pdf
