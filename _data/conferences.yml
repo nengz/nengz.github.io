@@ -1,34 +1,42 @@
+- title: "JIT-Smart: A Multi-task Learning Framework for Just-in-Time Defect Prediction and Localization"
+  authors:  Xiangping Chen, Furen Xu, Yuan Huang*, <b>Neng Zhang</b>, Zibin Zheng
+  venue:  ACM International Conference on the Foundations of Software Engineering (FSE, CCF-A), Research Track
+  year: 2024
+  pdf: null
+  status: Published
+
 - title: "iASTMapper: An Iterative Similarity-Based Abstract Syntax Tree Mapping Algorithm"
   authors:  <b>Neng Zhang</b>, Qinde Chen*, Zibin Zheng, Ying Zou
-  venue:  The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023, CCF-A), Research Track
+  venue:  IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Research Track
   year: 2023
   pdf: papers/ASE2023.pdf
-  status: Accepted
+  status: Published
 
 - title: "Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum"
   authors:  Zibin Zheng, <b>Neng Zhang*</b>, Jianzhong Su, Zhijie Zhong, Mingxi Ye, Jiachi Chen
-  venue:  The 45th ACM/IEEE International Conference on Software Engineering (ICSE 2023, CCF-A), Techincal Track
+  venue:  IEEE/ACM International Conference on Software Engineering (ICSE, CCF-A), Techincal Track
   year: 2023
   pdf: papers/ICSE2023.pdf
-  status: Accepted
+  status: Published
 
 - title: "ShellFusion: Answer Generation for Shell Programming Tasks via Knowledge Fusion"
   authors: <b>Neng Zhang*</b>, Chao Liu, Xin Xia, Christoph Treude, Ying Zou, David Lo, Zibin Zheng
-  venue: The 44th ACM/IEEE International Conference on Software Engineering (ICSE 2022, CCF-A), Technical Track
+  venue: IEEE/ACM International Conference on Software Engineering (ICSE, CCF-A), Technical Track
   year: 2022
-  status: Accepted
   pdf: papers/ICSE2022.pdf
+  status: Published
   
 - title: "An Approach of Service Discovery based on Service Goal Clustering"
   authors: <b>Neng Zhang</b>, Jian Wang*, Keqing He, Zheng Li
-  venue: The 13th IEEE International Conference on Services Computing (SCC 2016, CCF-C), Research Track
+  venue: IEEE International Conference on Services Computing (SCC, CCF-C), Research Track
   year: 2016
-  status: Accepted
   pdf: papers/SCC2016.pdf
+  status: Published
   
 - title: "Towards Services Discovery based on Service Goal Extraction and Recommendation"
   authors: Jian Wang, <b>Neng Zhang</b>, Ceng Zeng, Zheng Li, Keqing He
-  venue: The 10th IEEE International Conference on Services Computing (SCC 2013, CCF-C), Research Track
+  venue: IEEE International Conference on Services Computing (SCC, CCF-C), Research Track
   year: 2013
-  status: Accepted
   pdf: papers/SCC2013.pdf
+  status: Published
+
