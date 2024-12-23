@@ -92,9 +92,9 @@ layout: default
         {% if journal.remark%}
             (<span class="project-tagline"><b>{{ journal.remark }}</b></span>)
         {% endif %}
-        {% if journal.pdf%}
+        <!--{% if journal.pdf%}
             <span class="pull-right"> <a href="{{ site.url }}/{{ journal.pdf }}"><b>[PDF]</b></a></span>
-        {% endif %}
+        {% endif %}-->
 
     </div>
     {% endfor %}
@@ -110,9 +110,9 @@ layout: default
             {% if paper.remark%}
                 (<span class="project-tagline"><b>{{ paper.remark }}</b></span>)
             {% endif %}
-            {% if paper.pdf%}
+            <!--{% if paper.pdf%}
             <span class="pull-right"> <a href="{{ site.url }}/{{ paper.pdf }}"><b>[PDF]</b></a></span>
-            {% endif %}
+            {% endif %}-->
     </div>
     {% endfor %}
 
@@ -126,11 +126,11 @@ layout: default
     <div class="item">
         <span class="project-tagline">[{{idx}}] {{ chinese.authors }}. "{{ chinese.title }}". <em>{{ chinese.venue }}</em>, {{ chinese.year }}</span>
         {% if chinese.remark%}
-            (<span class="project-tagline"><b>{{ chinese.remark }}</b></span>)
+            (<span class="project-tagline", color="red"><b>{{ chinese.remark }}</b></span>)
         {% endif %}
-        {% if chinese.pdf%}
+        <!--{% if chinese.pdf%}
             <span class="pull-right"> <a href="{{ site.url }}/{{ chinese.pdf }}"><b>[PDF]</b></a></span>
-        {% endif %}
+        {% endif %}-->
     </div>
     {% endfor %}
    
