@@ -17,7 +17,7 @@ layout: default
 </section><!--//section-->
 
 <section class="section experiences-section">
-        <h2 class="section-title">Experiences</h2>
+        <h2 class="section-title">Experience</h2>
 	        <div class="item">
                             <div class="meta">
                                 <div class="upper-row">
@@ -80,9 +80,9 @@ layout: default
 
   </section><!--//section-->
 <section class="section publication-section">
-	<h2 class="section-title">Publication</h2>
+	<h2 class="section-title">Selected Publications</h2>
     <div class="intro">
-        <p class="subsection-title">Journal Papers</p>
+        <p class="subsection-title">Journal</p>
     </div>  <!--//intro-->
     {% assign len = site.data.journals | size | plus : 1  %} 
     {% for journal in site.data.journals %}
@@ -100,7 +100,7 @@ layout: default
     {% endfor %}
 	</br>
     <div class="intro">
-            <p class="subsection-title">Conference Papers</p>
+            <p class="subsection-title">Conference</p>
     </div>
     {% assign len = site.data.conferences | size | plus : 1  %} 
     {% for paper in site.data.conferences %}
@@ -118,7 +118,7 @@ layout: default
 
 	</br>
     <div class="intro">
-        <p class="subsection-title">Papers in Chinese</p>
+        <p class="subsection-title">Chinese</p>
     </div><!--//intro-->
     {% assign len = site.data.chineses | size | plus : 1  %} 
     {% for chinese in site.data.chineses %}
