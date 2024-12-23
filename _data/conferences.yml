@@ -6,8 +6,22 @@
   status: Published
 
 - title: "LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts"
-  authors:  Peilin Zheng, Bowei Su, Xiapu Luo, Ting Chen, <b>Neng Zhang</b>, Zibin Zheng
+  authors:  Peilin Zheng, Bowei Su, Xiapu Luo, Ting Chen, <b>Neng Zhang</b>, Zibin Zheng*
   venue:  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA, CCF-A), Technical Track
+  year: 2024
+  pdf: null
+  status: Published
+
+- title: "Guiding ChatGPT for Better Code Generation: An Empirical Study"
+  authors:  Chao Liu, Xuanlin Bao, Hongyu Zhang, <b>Neng Zhang</b>, Haibo Hu, Xiaohong Zhang, Meng Yan*
+  venue:  IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Research Track
+  year: 2024
+  pdf: null
+  status: Published
+
+- title: "VisRepo: A Visual Retrieval Tool for Large-Scale Open-Source Projects"
+  authors:  Xiaoqi Yue, Chao Liu*, <b>Neng Zhang</b>, Haibo Hu, Xiaohong Zhang
+  venue:  Asia-Pacific Symposium on Internetware (Internetware, CCF-C), Tool DEMO Track
   year: 2024
   pdf: null
   status: Published
@@ -22,6 +36,13 @@
 - title: "Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum"
   authors:  Zibin Zheng, <b>Neng Zhang*</b>, Jianzhong Su, Zhijie Zhong, Mingxi Ye, Jiachi Chen
   venue:  IEEE/ACM International Conference on Software Engineering (ICSE, CCF-A), Techincal Track
+  year: 2023
+  pdf: papers/ICSE2023.pdf
+  status: Published
+
+- title: "ShellFusion: An Answer Generator for Shell Programming Tasks via Knowledge Fusion"
+  authors:  Zhongqi Chen; <b>Neng Zhang</b>*; Pengyue Si; Qinde Chen; Chao Liu; Zibin Zheng
+  venue:  IEEE/ACM International Conference on Software Engineering (ICSE, CCF-A), Tool DEMO Track
   year: 2023
   pdf: papers/ICSE2023.pdf
   status: Published
