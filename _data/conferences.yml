@@ -5,6 +5,13 @@
   pdf: null
   status: Published
 
+- title: "LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts"
+  authors:  Peilin Zheng, Bowei Su, Xiapu Luo, Ting Chen, <b>Neng Zhang</b>, Zibin Zheng
+  venue:  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA, CCF-A), Technical Track
+  year: 2024
+  pdf: null
+  status: Published
+
 - title: "iASTMapper: An Iterative Similarity-Based Abstract Syntax Tree Mapping Algorithm"
   authors:  <b>Neng Zhang</b>, Qinde Chen*, Zibin Zheng, Ying Zou
   venue:  IEEE/ACM International Conference on Automated Software Engineering (ASE, CCF-A), Research Track
