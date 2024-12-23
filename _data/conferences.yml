@@ -41,7 +41,7 @@
   status: Published
 
 - title: "ShellFusion: An Answer Generator for Shell Programming Tasks via Knowledge Fusion"
-  authors:  Zhongqi Chen; <b>Neng Zhang</b>*; Pengyue Si; Qinde Chen; Chao Liu; Zibin Zheng
+  authors:  Zhongqi Chen; <b>Neng Zhang*</b>; Pengyue Si; Qinde Chen; Chao Liu; Zibin Zheng
   venue:  IEEE/ACM International Conference on Software Engineering (ICSE, CCF-A), Tool DEMO Track
   year: 2023
   pdf: papers/ICSE2023.pdf
