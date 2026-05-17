@@ -1,3 +1,10 @@
+- title: "CKTyper: Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow"
+  authors:  Anji Li, <b>Neng Zhang*</b>, Ying Zou, Zhixiang Chen, Jian Wang, Zibin Zheng
+  venue:  Proc. ACM Softw. Eng. 2, FSE, Article FSE009  (FSE, CCF-A)
+  year: 2025
+  pdf: null
+  status: Published
+  
 - title: "JIT-Smart: A Multi-task Learning Framework for Just-in-Time Defect Prediction and Localization"
   authors:  Xiangping Chen, Furen Xu, Yuan Huang*, <b>Neng Zhang</b>, Zibin Zheng
   venue:  ACM International Conference on the Foundations of Software Engineering (FSE, CCF-A), Research Track
