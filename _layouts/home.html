@@ -112,9 +112,9 @@ layout: default
             {% if paper.remark%}
                 (<span class="project-tagline", style="color: red;"><b>{{ paper.remark }}</b></span>)
             {% endif %}
-            <!--{% if paper.pdf%}
+            {% if paper.pdf%}
             <span class="pull-right"> <a href="{{ site.url }}/{{ paper.pdf }}"><b>[PDF]</b></a></span>
-            {% endif %}-->
+            {% endif %}
     </div>
     {% endfor %}
 
@@ -130,9 +130,9 @@ layout: default
         {% if chinese.remark%}
             (<span class="project-tagline", style="color: red;"><b>{{ chinese.remark }}</b></span>)
         {% endif %}
-        <!--{% if chinese.pdf%}
+        {% if chinese.pdf%}
             <span class="pull-right"> <a href="{{ site.url }}/{{ chinese.pdf }}"><b>[PDF]</b></a></span>
-        {% endif %}-->
+        {% endif %}
     </div>
     {% endfor %}
    
