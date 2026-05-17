@@ -2,28 +2,28 @@
   authors:  Anji Li, <b>Neng Zhang*</b>, Ying Zou, Zhixiang Chen, Jian Wang, Zibin Zheng
   venue:  Proc. ACM Softw. Eng. 2, FSE, Article FSE009  (FSE, CCF-A)
   year: 2025
-  pdf: null
+  pdf: papers/FSE-2025-CKTyper, Enhancing Type Inference for Java Code Snippets by Leveraging Crowdsourcing Knowledge in Stack Overflow.pdf
   status: Published
   
 - title: "JIT-Smart: A Multi-task Learning Framework for Just-in-Time Defect Prediction and Localization"
   authors:  Xiangping Chen, Furen Xu, Yuan Huang*, <b>Neng Zhang</b>, Zibin Zheng
   venue:  ACM International Conference on the Foundations of Software Engineering (FSE, CCF-A), Research Track
   year: 2024
-  pdf: null
+  pdf: papers/FSE-2024-JIT-Smart, A Multi-Task Learning Framework for Just-In-Time Defect Prediction and Localization.pdf
   status: Published
 
 - title: "LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts"
   authors:  Peilin Zheng, Bowei Su, Xiapu Luo, Ting Chen, <b>Neng Zhang</b>, Zibin Zheng*
   venue:  ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA, CCF-A), Technical Track
   year: 2024
-  pdf: null
+  pdf: papers/ISSTA-2024-LENT-SSE, Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts.pdf
   status: Published
 
 - title: "Guiding ChatGPT for Better Code Generation: An Empirical Study"
   authors:  Chao Liu, Xuanlin Bao, Hongyu Zhang, <b>Neng Zhang</b>, Haibo Hu, Xiaohong Zhang, Meng Yan*
   venue:  IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER, CCF-B), Research Track
   year: 2024
-  pdf: null
+  pdf: papers/SANER-2024-Guiding ChatGPT for Better Code Generation, An Empirical Study.pdf
   status: Published
 
 - title: "VisRepo: A Visual Retrieval Tool for Large-Scale Open-Source Projects"
