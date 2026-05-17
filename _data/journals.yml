@@ -9,21 +9,21 @@
   authors:  Zhixiang Chen, Anji Li, <b>Neng Zhang*</b>, Jianguo Chen, Yuan Huang, Zibin Zheng
   venue:  Expert Systems with Applications (ESWA, CCF-C, 中科院一区)
   year: 2026
-  pdf: null
+  pdf: papers/ESWA-2026-iJTyper, An Effective Type Inference Framework for Incomplete Java Codes by Integrating Constraint-and Statistics-based Methods.pdf
   status: Published
   
 - title: "DDASR: Deep Diverse API Sequence Recommendation"
   authors:  Siyu Nan, Jian Wang, <b>Neng Zhang</b>, Duantengchuan Li, Bing Li
   venue:  ACM Transactions on Software Engineering and Methodology (TOSEM, CCF-A)
   year: 2024
-  pdf: null
+  pdf: papers/TOSEM-2024-0012.R2_Proof_hi-accepted.pdf
   status: Published
 
 - title: "An empirical study of ChatGPT-related projects and their issues on GitHub"
   authors:  Zheng Lin, <b>Neng Zhang*</b>, Chao Liu, Zibin Zheng
   venue:  Expert Systems with Applications (ESWA, CCF-C, 中科院一区)
   year: 2024
-  pdf: null
+  pdf: papers/ESWA-2024-An empirical study of ChatGPT-related projects and their issues on GitHub.pdf
   status: Published
 
 - title: "Web APIs: Features, Issues, and Expectations -- A Large-Scale Empirical Study of Web APIs from Two Publicly Accessible Registries Using Stack Overflow and A User Survey"
