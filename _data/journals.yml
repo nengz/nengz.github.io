@@ -2,7 +2,7 @@
   authors:  <b>Neng Zhang</b>, Xin Gu, Jianga Shang, Haishen Lei, Chao Liu, Yiwang Huang*, Zheng Lin, Bingnan Li
   venue:  Journal of Systems and Software (JSS, CCF-B, 中科院二区)
   year: 2026
-  pdf: null
+  pdf: papers/JSS-2026-UERR, A Unified Effective Retrieval Model for Open-Source Repositories.pdf
   status: Accepted
   
 - title: "iJTyper: An Effective Type Inference Framework for Incomplete Java Codes by Integrating Constraint-and Statistics-based Methods"
