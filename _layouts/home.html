@@ -92,10 +92,12 @@ layout: default
         {% if journal.remark%}
             (<span class="project-tagline", style="color: red;"><b>{{ journal.remark }}</b></span>)
         {% endif %}
+		{% if journal.pdf%}
+            <span class="pull-right"> <a href="{{ site.url }}/{{ journal.pdf }}"><b>[PDF]</b></a></span>
+        {% endif %}
         <!--{% if journal.pdf%}
             <span class="pull-right"> <a href="{{ site.url }}/{{ journal.pdf }}"><b>[PDF]</b></a></span>
         {% endif %}-->
-
     </div>
     {% endfor %}
 	</br>
